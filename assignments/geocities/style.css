@@ -1,0 +1,177 @@
+h1 {
+    text-align: center;
+    margin-top: 1em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: forestgreen;
+}
+h2 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-family: fantasy;
+}
+
+img.pandadots {
+    width: 100%;
+    height: auto;
+    position: fixed;
+    margin: 0;
+}
+
+h2#band {
+    color: whitesmoke;
+    text-align: center;
+    padding: 1rem 3rem 2rem 3rem;
+    background-color: darkslateblue;
+    margin: 6em;
+}
+
+img#dragon {
+   width: 50%;
+   margin: 0rem 20rem 0rem 20rem;
+}
+
+h2#animal {
+    color: whitesmoke;
+    text-align: center;
+    padding: 1rem 3rem 2rem 3rem;
+    background-color: darkslateblue;
+    margin: 6em;
+}
+
+img#panda {
+    width: 50%;
+    margin: 0rem 20rem 0rem 20rem;
+}
+
+h2#book {
+    color: whitesmoke;
+    text-align: center;
+    padding: 1rem 3rem 2rem 3rem;
+    background-color: darkslateblue;
+    margin: 6em;
+}
+
+img#giver{ 
+    width: 50%;
+    margin: 0rem 20rem 0rem 20rem;
+}
+
+h2#game {
+    color: whitesmoke;
+    text-align: center;
+    padding: 1rem 3rem 2rem 3rem;
+    background-color: darkslateblue;
+    margin: 6em;
+}
+img#creed {
+    width: 50%;
+    margin:0rem 20rem 0rem 20rem;
+}
+
+h2#city {
+    color: whitesmoke;
+    text-align: center;
+    padding: 1rem 3rem 2rem 3rem;
+    background-color: darkslateblue;
+    margin: 6em;
+}
+img#london {
+    width: 50%;
+    margin: 0rem 20rem 0rem 20rem;
+}
+
+h2#movie {
+    color: whitesmoke;
+    text-align: center;
+    padding: 1rem 3rem 2rem 3rem;
+    background-color: darkslateblue;
+    margin: 6em;
+}
+
+img#future {
+    width: 50%;
+    margin: 0rem 20rem 0rem 20rem;
+}
+
+p.caption {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+img#pika {
+    position: absolute;
+    left: 50px;
+    top: 215px;
+}
+
+img#chu {
+    position: absolute;
+    right: 50px;
+    top: 215px;
+}
+
+img#gir {
+    position: absolute;
+    right: 50px;
+    top: 1128px;
+}
+
+img#dance {
+    position: absolute;
+    left: 50px;
+    top: 1128px;
+}
+
+img#banana {
+    position: absolute;
+    right: 50px;
+    top: 1990px;
+}
+
+img#fruit {
+    position: absolute;
+    left: 50px;
+    top: 1990px;
+}
+
+img#hobbs {
+    position: absolute;
+    right: 50px;
+    top: 2675px;
+}
+
+img#tiger {
+    position: absolute;
+    left: 50px;
+    top: 2675px;
+}
+
+img#hamster {
+    position: absolute;
+    right: 50px;
+    top: 3425px;
+}
+
+img#fuzzy {
+    position: absolute;
+    left: 50px;
+    top: 3425px;
+}
+
+img#cow {
+    position: absolute;
+    right: 50px;
+    top: 4290px;
+    height: 50px;
+    width: auto;
+}
+
+img#moo {
+    position: absolute;
+    left: 50px;
+    top: 4290px;
+    height: 50px;
+    width: auto;
+}
