@@ -1,0 +1,114 @@
+body {
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    transform: scale(50%);
+}
+
+.red {
+    width: 500px;
+    height: 500px;
+    border: 2em solid lightskyblue;
+    border-bottom: 2em solid red;
+    border-right: 2rem solid red;
+    border-radius: 50%;
+    position: absolute;
+    animation: spin 5s infinite linear;
+    
+}
+.orange {
+    width: 475px;
+    height: 475px;
+    border: 2em solid lightskyblue;
+    border-bottom: 2em solid orange;
+    border-right: 2rem solid orange;
+    border-radius: 50%;
+    position: absolute;
+    animation: spin 5s infinite linear;
+}
+
+.yellow {
+    width: 450px;
+    height: 450px;
+    border: 2em solid lightskyblue;
+    border-bottom: 2em solid yellow;
+    border-right: 2rem solid yellow;
+    border-radius: 50%;
+    position: absolute;
+    animation: spin 5s infinite linear;
+}
+
+.green {
+    width: 425px;
+    height: 425px;
+    border: 2em solid lightskyblue;
+    border-bottom: 2em solid green;
+    border-right: 2rem solid green;
+    border-radius: 50%;
+    position: absolute;
+    animation: spin 5s infinite linear;
+}
+
+.blue {
+    width: 400px;
+    height: 400px;
+    border: 2em solid lightskyblue;
+    border-bottom: 2em solid blue;
+    border-right: 2rem solid blue;
+    border-radius: 50%;
+    position: absolute;
+    animation: spin 5s infinite linear;
+}
+
+.purple {
+    width: 375px;
+    height: 375px;
+    border: 2em solid lightskyblue;
+    border-bottom: 2em solid purple;
+    border-right: 2rem solid purple;
+    border-radius: 50%;
+    position: absolute;
+    animation: spin 5s infinite linear; 
+}
+.white {
+    width: 350px;
+    height: 350px;
+    border: 2em solid lightskyblue;
+    border-bottom: 2em solid lightskyblue;
+    border-right: 2rem solid lightskyblue;
+    border-radius: 50%;
+    position: absolute;
+    animation: spin 2s infinite linear;
+}
+
+.box {
+    width: 800px;
+    height: 365px;
+    background-color: lightskyblue;
+    position: absolute;
+    transform: translate(0px, 100px);
+    
+}
+
+.cloud {
+    position: absolute;
+    transform: translate(-250px, -50px);
+    
+}
+.cloud2 {
+    position: absolute;
+    transform: translate(250px, -50px) scaleX(-1);
+}
+.sky {
+    width: 1200px;
+    height: 900px;
+    background-color: lightskyblue;
+    position: absolute;
+    transform: translate(0, -50px);
+    border-radius: 50%;
+}
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
